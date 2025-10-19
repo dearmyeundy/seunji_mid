@@ -1,0 +1,5 @@
+initial_velocity: 0.0
+acceleration: 9.81
+time_interval: 1.0
+max_time: 10.0
+graph_style: "line"

@@ -1,0 +1,8 @@
+streamlit
+numpy
+matplotlib
+plotly
+pandas
+pyyaml
+scipy
+streamlit-plotly-events
